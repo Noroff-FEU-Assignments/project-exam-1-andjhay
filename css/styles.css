@@ -41,6 +41,7 @@ main {
   flex-direction: column;
   flex: 1;
   align-items: center;
+  padding: 20px;
   background-color: var(--custom-white);
 }
 
@@ -49,7 +50,6 @@ footer {
   flex-direction: row;
   justify-content: space-evenly;
   height: fit-content;
-  margin-top: 10px;
   background-color: var(--custom-lightblue);
   width: 100%;
 }
