@@ -354,6 +354,11 @@ h3 {
     align-items: center;
   }
 
+  .post {
+    height: 400px;
+    width: 90vw;
+  }
+
   p {
     width: 75vw;
   }
