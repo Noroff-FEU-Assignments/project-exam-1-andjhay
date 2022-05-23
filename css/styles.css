@@ -352,6 +352,10 @@ h3 {
     align-items: center;
   }
 
+  .content {
+    width: 80vw;
+  }
+
   /* Mobile NAV */
 
   nav {
