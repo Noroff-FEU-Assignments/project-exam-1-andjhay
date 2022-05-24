@@ -1,5 +1,5 @@
 :root {
-  --custom-lightblue: #7585a5;
+  --custom-lightblue: #3f4a63;
   --custom-blue: #1a2f59;
   --custom-white: #f5f5f5;
 }
@@ -46,6 +46,7 @@ main {
 }
 
 footer {
+  color: ;
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
@@ -164,7 +165,7 @@ textarea {
   height: 50px;
   border-radius: 50%;
   font-size: 30px;
-  color: var(--custom-blue);
+  color: var(--custom-white);
 }
 
 .button-right button:hover,
